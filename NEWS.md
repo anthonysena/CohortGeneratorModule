@@ -1,3 +1,8 @@
+CohortGeneratorModule 0.0.15-1
+=======================
+
+- Updated referenced to CohortGenerator to test subset functionality
+
 CohortGeneratorModule 0.0.14
 =======================
 
